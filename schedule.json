@@ -1,11 +1,41 @@
 [
   {
     "id": 1,
-    "date": "28/03/26",
-    "day": "Sat",
+    "matchNo": 1,
+    "date": "2026-03-28",
+    "displayDate": "Mar 28, Sat",
     "time": "7:30 PM",
     "team1": "Royal Challengers Bengaluru",
+    "team1Short": "RCB",
     "team2": "Sunrisers Hyderabad",
-    "venue": "Bengaluru"
+    "team2Short": "SRH",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "status": "upcoming"
+  },
+  {
+    "id": 2,
+    "matchNo": 2,
+    "date": "2026-03-29",
+    "displayDate": "Mar 29, Sun",
+    "time": "3:30 PM",
+    "team1": "Mumbai Indians",
+    "team1Short": "MI",
+    "team2": "Chennai Super Kings",
+    "team2Short": "CSK",
+    "venue": "Wankhede Stadium, Mumbai",
+    "status": "upcoming"
+  },
+  {
+    "id": 3,
+    "matchNo": 3,
+    "date": "2026-03-29",
+    "displayDate": "Mar 29, Sun",
+    "time": "7:30 PM",
+    "team1": "Kolkata Knight Riders",
+    "team1Short": "KKR",
+    "team2": "Delhi Capitals",
+    "team2Short": "DC",
+    "venue": "Eden Gardens, Kolkata",
+    "status": "upcoming"
   }
 ]
