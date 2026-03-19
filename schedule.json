@@ -5,10 +5,17 @@
     "date": "2026-03-28",
     "displayDate": "Mar 28, Sat",
     "time": "7:30 PM",
+
     "team1": "Royal Challengers Bengaluru",
     "team1Short": "RCB",
+    "team1Logo": "rcb.png",
+    "team1Color": "#D92C2C",
+
     "team2": "Sunrisers Hyderabad",
     "team2Short": "SRH",
+    "team2Logo": "srh.png",
+    "team2Color": "#F97316",
+
     "venue": "M Chinnaswamy Stadium, Bengaluru",
     "status": "upcoming"
   },
@@ -18,10 +25,17 @@
     "date": "2026-03-29",
     "displayDate": "Mar 29, Sun",
     "time": "3:30 PM",
+
     "team1": "Mumbai Indians",
     "team1Short": "MI",
+    "team1Logo": "mi.png",
+    "team1Color": "#004BA0",
+
     "team2": "Chennai Super Kings",
     "team2Short": "CSK",
+    "team2Logo": "csk.png",
+    "team2Color": "#FACC15",
+
     "venue": "Wankhede Stadium, Mumbai",
     "status": "upcoming"
   },
@@ -31,10 +45,17 @@
     "date": "2026-03-29",
     "displayDate": "Mar 29, Sun",
     "time": "7:30 PM",
+
     "team1": "Kolkata Knight Riders",
     "team1Short": "KKR",
+    "team1Logo": "kkr.png",
+    "team1Color": "#3A225D",
+
     "team2": "Delhi Capitals",
     "team2Short": "DC",
+    "team2Logo": "dc.png",
+    "team2Color": "#17449B",
+
     "venue": "Eden Gardens, Kolkata",
     "status": "upcoming"
   }
